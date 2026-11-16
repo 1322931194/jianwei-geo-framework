@@ -1,16 +1,16 @@
-# 见微五维（JianWei-5）：网站 AI 友好度评估框架
+# 睿搜见微五维（JianWei-5）：网站 AI 友好度评估框架
 
 > **JianWei-5: A Five-Dimensional Framework for Assessing Website AI-Friendliness in Generative Engine Optimization (GEO)**
 >
 > 版本 v1.0 · 2026 · 见微研究组
 >
-> 官方实现：[见微 AI 品牌增长平台](https://www.jianwei.uno)
+> 官方实现：[见微 AI 品牌增长平台](https://www.jianweizzai.cn)
 
 ---
 
 ## ⚠️ 关于本仓库
 
-本仓库**仅包含「见微五维」评估框架的理论文档**，供行业交流、学术引用与从业者学习使用。
+本仓库**仅包含「睿搜见微五维」评估框架的理论文档**，供行业交流、学术引用与从业者学习使用。
 
 框架的工程实现（评分算法、监测系统、数据管线）为见微平台专有，不在本仓库范围内。
 
@@ -127,10 +127,10 @@ JianWei-5 不替代 SEO，二者优化对象不同：
 
 ```bibtex
 @techreport{jianwei5_2026,
-  title   = {见微五维（JianWei-5）：网站 AI 友好度评估框架},
-  author  = {见微研究组},
+  title   = {睿搜见微五维（JianWei-5）：网站 AI 友好度评估框架},
+  author  = {睿搜见微研究组},
   year    = {2026},
-  institution = {见微 AI 品牌增长平台},
+  institution = {睿搜见微 AI 品牌增长平台},
   url     = {https://www.jianwei.uno},
   version = {1.0}
 }
@@ -143,6 +143,6 @@ JianWei-5 不替代 SEO，二者优化对象不同：
 
 ---
 
-**见微 · AI 品牌增长平台**
+**睿搜见微 · AI 品牌增长平台**
 让 AI 推荐你的品牌，而不是竞争对手
-官网：https://www.jianwei.uno · 合作：微信 jenly222
+官网：https://www.jianweizzai.cn · 合作：微信 jenly222
